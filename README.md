@@ -1,3 +1,8 @@
+### EXERCISE 3-Exercise 3: Flow sequence or Flow chart using Repeat, While and Do-While loopsAssignment
+~~~
+NAME: B.  DHANUSH KUMAR
+REG NO: 212224240034
+~~~
 # AIM:
 To develop a UiPath workflow that takes a user’s name as input and displays a custom welcome message using a Switch case. If the input is "RAM", it should display "Welcome Mr. Ramachandran", else display different messages for each name, and a default message for other names.
 
