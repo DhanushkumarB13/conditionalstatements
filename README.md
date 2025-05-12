@@ -1,4 +1,5 @@
-### EXERCISE 3-Exercise 3: Flow sequence or Flow chart using Repeat, While and Do-While loopsAssignment
+# EXERCISE 3-Exercise 3: Flow sequence or Flow chart using Repeat, While and Do-While loopsAssignment
+
 ~~~
 NAME: B.  DHANUSH KUMAR
 REG NO: 212224240034
